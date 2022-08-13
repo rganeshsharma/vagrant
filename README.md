@@ -2,10 +2,10 @@ Use Vagrant for auto provisioning sample Dev K8s clusters
 
 Versions :
 
-Vagrant Version: 2.3.0
+Vagrant Version: 2.3.0 or `sudo dnf install vagrant` or `sudo apt install vagrant`
 
-VirtualBox Provider Version: 6.1.36r152435
-
+VirtualBox Provider Version: 6.1.36r152435 from here : `https://www.virtualbox.org/wiki/Linux_Downloads`
+Download GPG and SIG Keys and add them to the system and install depending on you OS distribution.
 
 Vagrantfile defined will deploy : 
 
@@ -21,5 +21,5 @@ once added we can access cluster and deploy the Metrics Server usinjg :
 
 `kubectl apply -f https://github.com/kubernetes-sigs/metrics-server/releases/latest/download/components.yaml`
 
-
- 
+Kubernetes v1.24 Dev Cluster is spinned in minutes!
+Use Cases : Client Deno, CKA/CKS Exam prep, POC for DevOps Tools  
