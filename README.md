@@ -2,7 +2,7 @@ Use Vagrant for auto provisioning sample Dev K8s clusters
 
 Versions :
 
-Vagrant Version: 2.3.0 or `sudo dnf install vagrant` or `sudo apt install vagrant`
+Vagrant Version: 2.3.0 or `sudo dnf install vagrant` or `sudo apt install vagrant` or using `https://www.vagrantup.com/downloads`
 
 VirtualBox Provider Version: 6.1.36r152435 from here : `https://www.virtualbox.org/wiki/Linux_Downloads`
 Download GPG and SIG Keys and add them to the system and install depending on you OS distribution.
