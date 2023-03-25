@@ -27,8 +27,8 @@ Use Cases : Client Deno, CKA/CKS Exam prep, POC for DevOps Tools
 
 Commands to be used:
 
-           Vagrant up for bringing the cluster up
+           Vagrant up : for bringing the cluster up
 
-           Vagrant status for status of the cluster
+           Vagrant status : for status of the cluster
            
-           Vagrant delete for cleaning up the cluster
+           Vagrant delete : for cleaning up the cluster
