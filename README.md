@@ -23,3 +23,8 @@ once added we can access cluster and deploy the Metrics Server usinjg :
 
 Kubernetes v1.24 Dev Cluster is spinned in minutes!
 Use Cases : Client Deno, CKA/CKS Exam prep, POC for DevOps Tools  
+
+
+Commands : Vagrant up for bringing the cluster up
+           Vagrant status for status of the cluster
+           Vagrant delete for cleaning up the cluster
