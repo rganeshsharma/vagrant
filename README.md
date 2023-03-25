@@ -25,7 +25,9 @@ Kubernetes v1.24 Dev Cluster is spinned in minutes!
 Use Cases : Client Deno, CKA/CKS Exam prep, POC for DevOps Tools  
 
 
-Commands : Vagrant up for bringing the cluster up
+Commands to be used:
+
+           Vagrant up for bringing the cluster up
 
            Vagrant status for status of the cluster
            
